@@ -19,7 +19,7 @@ Step 6: Copy All Of That And Paste It Into ``[qb]/qb-inventory/html/images``
 
 .
 
-Step 7: Go To [Items.lua]https://github.com/Marshxan/qb-inventorydrinks/blob/main/items.lua)
+Step 7: Go To [Items.lua](https://github.com/Marshxan/qb-inventorydrinks/blob/main/items.lua)
 
 Step 8: Copy All Of That And Paste It Into ``[qb]/qb-core/shared/items.lua`` (scroll To The Bottom And Paste There)
 
