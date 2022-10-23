@@ -1,7 +1,7 @@
 ## How To Install **qb-inventorydrinks**
 
 
-Step 1: Go To [config.lua](https://github.com/Marshxan/qb-inventoryitems/blob/main/config.lua) 
+Step 1: Go To [config.lua]([https://github.com/Marshxan/qb-inventoryitems/blob/main/config.lua](https://github.com/Marshxan/qb-inventorydrinks/blob/main/config.lua)) 
 
 Step 2: Copy All Of That And Paste It Into ``[qb]/qb-smallresources/config.lua`` You Should Find A section Called ``ConsumablesDrink = {}``
 
