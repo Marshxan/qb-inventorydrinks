@@ -13,7 +13,7 @@ step 4: Copy All Of That And Paste It Into ``[qb]/qb-smallresources/server/consu
 
 .
 
-Step 5: Go To [Images](https://github.com/Marshxan/qb-inventoryitems/tree/main/images)
+Step 5: Go To [Images](https://github.com/Marshxan/qb-inventorydrinks/tree/main/images)
 
 Step 6: Copy All Of That And Paste It Into ``[qb]/qb-inventory/html/images``
 
