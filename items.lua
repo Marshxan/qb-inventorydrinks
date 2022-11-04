@@ -3,7 +3,7 @@
 -- THEN GO TO THE BOTTOM AND PASTE!!!!
 
 
-['barr-bubblegum'] 				 		 = {['name'] = 'barr-bubblegum', 			  	  		['label'] = 'Barr-Bubblegum', 					['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Barr-Bubblegum.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
+['barr-bubblegum'] 	 			 		 = {['name'] = 'barr-bubblegum', 			  	  		['label'] = 'Barr-Bubblegum', 					['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Barr-Bubblegum.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
 ['barr-cherryade'] 				 		 = {['name'] = 'barr-cherryade', 			  	  		['label'] = 'Barr-Cherryade', 					['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Barr-Cherryade.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
 ['barr-cola'] 				 		 = {['name'] = 'barr-cola', 			  	  		['label'] = 'Barr-Cola', 					['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Barr-Cola.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
 ['barr-creamsoda'] 				 		 = {['name'] = 'barr-creamsoda', 			  	  		['label'] = 'Barr-CreamSoda', 					['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Barr-CreamSoda.png', 				['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
