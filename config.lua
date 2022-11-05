@@ -10,6 +10,8 @@
 ["barr-creamsoda"] = math.random(40, 50),
 ["barr-lemonade"] = math.random(40, 50),
 
+["cadbury-hotchocolate"] = math.random(40, 50),
+
 ["calypso-lemonage"] = math.random(40, 50),
 ["calypso-oceanblue"] = math.random(40, 50),
 ["calypso-pineapplepeach"] = math.random(40, 50),
@@ -39,6 +41,11 @@
 ["ka-pineapple"] = math.random(40, 50),
 ["ka-strawberry"] = math.random(40, 50),
 ["ka-tropicalkrush"] = math.random(40, 50),
+
+["kenco-americano"] = math.random(40, 50),
+["kenco-cappaccino"] = math.random(40, 50),
+["kenco-latte"] = math.random(40, 50),
+
 
 ["lucozade-apple"] = math.random(40, 50),
 ["lucozade-cherry"] = math.random(40, 50),
@@ -75,4 +82,7 @@
 ["yazoo-banana"] = math.random(40, 50),
 ["yazoo-chocolate"] = math.random(40, 50),
 ["yazoo-strawberry"] = math.random(40, 50),
-["yazoo-vanilla"] = math.random(40, 50)
+["yazoo-vanilla"] = math.random(40, 50),
+
+["yorkshire-tea"] = math.random(40, 50)
+

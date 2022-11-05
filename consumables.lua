@@ -48,6 +48,13 @@ QBCore.Functions.CreateUseableItem("barr-lemonade", function(source, item)
     end
 end)
 
+-- Cadbury Drinks!
+QBCore.Functions.CreateUseableItem("cadbury-hotchocolate", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", source, item.name)
+    end
+end)
 
 -- Calypso Drinks!
 QBCore.Functions.CreateUseableItem("calypso-lemonage", function(source, item)
@@ -273,6 +280,27 @@ QBCore.Functions.CreateUseableItem("ka-tropicalkrush", function(source, item)
     end
 end)
 
+-- Kenco Drinks!
+QBCore.Functions.CreateUseableItem("kenco-americano", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", source, item.name)
+    end
+end)
+
+QBCore.Functions.CreateUseableItem("kenco-cappaccino", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", source, item.name)
+    end
+end)
+
+QBCore.Functions.CreateUseableItem("kenco-latte", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", source, item.name)
+    end
+end)
 
 -- Lucozade Drinks!
 QBCore.Functions.CreateUseableItem("lucozade-apple", function(source, item)
@@ -532,4 +560,12 @@ QBCore.Functions.CreateUseableItem("yazoo-vanilla", function(source, item)
         TriggerClientEvent("consumables:client:Drink", source, item.name)
     end
 end)
+
 -- MARSHY -- QB-InventoryDrinks --
+
+QBCore.Functions.CreateUseableItem("yorkshire-tea", function(source, item)
+    local Player = QBCore.Functions.GetPlayer(source)
+	if Player.Functions.RemoveItem(item.name, 1, item.slot) then
+        TriggerClientEvent("consumables:client:Drink", source, item.name)
+    end
+end)
