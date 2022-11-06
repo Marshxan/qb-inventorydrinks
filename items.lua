@@ -95,9 +95,9 @@
 
 -- MARSHY -- QB-InventoryDrinks --
 
-['rubicon-cherryRaspberry'] 			 = {['name'] = 'rubicon-cherryraspberry', 			['label'] = 'Rubicon-CherryRaspberry', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-CherryRaspberry.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
-['rubicon-orangeMango'] 				 = {['name'] = 'rubicon-orangemango', 			  	['label'] = 'Rubicon-OrangeMango', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-OrangeMango.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
-['rubicon-strawberryKiwi'] 				 = {['name'] = 'rubicon-strawberrykiwi', 			['label'] = 'Rubicon-StrawberryKiwi', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-StrawberryKiwi.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
+['rubicon-cherryraspberry'] 			 = {['name'] = 'rubicon-cherryraspberry', 			['label'] = 'Rubicon-CherryRaspberry', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-CherryRaspberry.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
+['rubicon-orangemango'] 				 = {['name'] = 'rubicon-orangemango', 			  	['label'] = 'Rubicon-OrangeMango', 				['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-OrangeMango.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
+['rubicon-strawberrykiwi'] 				 = {['name'] = 'rubicon-strawberrykiwi', 			['label'] = 'Rubicon-StrawberryKiwi', 			['weight'] = 200, 		['type'] = 'item', 		['image'] = 'Rubicon-StrawberryKiwi.png', 		['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Yummy So Nice!'},
 
 -- MARSHY -- QB-InventoryDrinks --
 
