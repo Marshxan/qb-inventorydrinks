@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://forum.cfx.re/uploads/default/original/4X/3/1/f/31f52745e02a82d87b50858715844d3daade903d.png">
+<img src="https://cdn.discordapp.com/attachments/1026388632321392670/1039286819428249690/guilded_image_8faf2f855cbbd401dafb6c4a1cbd6f85.png">
 </p>
 
 ## How To Install **qb-inventorydrinks**
